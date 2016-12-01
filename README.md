@@ -1,2 +1,2 @@
 # hello-world
-My first git repo
+Im new to GitHub. I was very curious about how it works. Now excited to explore GitHub world.
